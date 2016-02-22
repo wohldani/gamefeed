@@ -1,0 +1,4 @@
+cron:
+- description: Check Bluesnews
+  url: /
+  schedule: every 5 mins
